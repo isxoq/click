@@ -8,8 +8,6 @@ Ishlatilishi:
 
 Avval mysqlda transactions hosil qilamiz:
 
-
-Table Click Transaction
     CREATE TABLE `click_transactions` (
       `id` int(11) NOT NULL AUTO_INCREMENT,
       `user_id` int(11) DEFAULT NULL,
