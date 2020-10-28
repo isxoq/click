@@ -25,3 +25,6 @@ Avval mysqlda transactions hosil qilamiz:
 
 
 KEyin modulni backend papkasiga tashlab modulni tanishtiramiz
+
+So'ng moduli o'zimizga sozlab ishlatamiz.'
+Tez orada to'liq dokumentatsiyani joylaymiz
