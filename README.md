@@ -5,4 +5,4 @@ Modulni backend ga tashlab ishlatish mumkin.
 
 Ishlatilishi:
 
-<TEZ ORADA......>
+TEZ ORADA......
